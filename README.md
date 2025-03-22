@@ -1,6 +1,6 @@
 <!-- Banner personnalisé (remplacez l'URL par la vôtre) -->
 <p align="center">
-  <img src="[https://your-image-url.com/banner.jpg](https://zupimages.net/up/25/12/wewe.gif)" alt="Bannière Profil" width="100%">
+  <img src="[[https://your-image-url.com/banner.jpg](https://zupimages.net/up/25/12/5koo.png)](https://zupimages.net/up/25/12/wewe.gif)" alt="Bannière Profil" width="100%">
 </p>
 
 # Bonjour, je suis Vayzor
