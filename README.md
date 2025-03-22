@@ -3,7 +3,7 @@
   <img src="https://your-image-url.com/banner.jpg" alt="Bannière Profil" width="100%">
 </p>
 
-# Bonjour, je suis [Votre Nom]
+# Bonjour, je suis Vayzor
 
 Développeur et ingénieur robotique passionné, j'aime concevoir des solutions innovantes alliant **robotique**, **développement logiciel** et **cloud computing**. Sur ce profil, vous découvrirez mes projets, mes compétences techniques et bien plus encore !
 
@@ -24,16 +24,19 @@ Développeur et ingénieur robotique passionné, j'aime concevoir des solutions 
 
 ---
 
-## 🚀 Mes Projets
+## 🚀 Mes Projets Minecraft
 
-- **Projet 1 : Nom du Projet**  
-  *Description rapide du projet.* [Voir sur GitHub](#)
+- **Projet 1 : AllFightPvP [Minecraft]**  
+  *Serveur PvP/Faction Moddé.* [Voir sur GitHub](#)
 
-- **Projet 2 : Nom du Projet**  
-  *Description rapide du projet.* [Voir sur GitHub](#)
+- **Projet 2 : Keyrisium [Minecraft]**  
+  *Serveur PvP/Faction Moddé.* [Voir sur GitHub](#)
 
-- **Projet 3 : Nom du Projet**  
-  *Description rapide du projet.* [Voir sur GitHub](#)
+- **Projet 3 : Noctalia [Minecraft]**  
+  *Serveur PvP/Faction Moddé.* [Voir sur GitHub](#)
+
+  - **Projet 4 : Orizia [Minecraft]**  
+  *Serveur PvP/Faction Moddé.* [Voir sur GitHub](#)
 
 ---
 
@@ -48,12 +51,12 @@ Développeur et ingénieur robotique passionné, j'aime concevoir des solutions 
 
 ## 🤝 Me Contacter
 
-- 📫 [Envoyez-moi un email](mailto:votre.email@example.com)
-- 🔗 [Mon profil LinkedIn](https://www.linkedin.com/)
+- 📫 [Envoyez-moi un email](mailto:vayzor@hotmail.com)
+- 🔗 [Mon profil discord](@vayzoor)
 
 ---
 
 <p align="center">
-  <em>"La technologie est le moteur de l'innovation." - [Votre Nom]</em>
+  <em>"La technologie est le moteur de l'innovation." - [Vayzor]</em>
 </p>
 
